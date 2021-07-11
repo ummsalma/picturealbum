@@ -1,0 +1,55 @@
+.boss{
+    display: flex;
+    margin: 25px;
+    flex-wrap: wrap;
+}
+.main-box{margin: 25px;
+    /* display: flex; */
+    width: 500px;
+    height: 320px;
+border: 2px solid rosybrown;
+position: relative;
+border-radius: 20px;
+overflow: hidden;
+
+}
+.main-box img{
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+
+.cat{
+    position: absolute;
+    /* display: block ; */
+    top: 0;
+    color: seashell;
+    padding: 30px;
+    font-size: 20px;
+    display: none;
+}
+.main-box:hover .cat{
+    display: block;
+   cursor: pointer;
+   background-color: rgba(236, 52, 107, 0.692);
+   border-radius: 20px;
+  width: 50%;
+
+
+}
+.main-box:hover .pic img{
+    width: 150%;
+    transition: 2.5s;
+}
+.cat:hover
+
+}
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
+salman tahmid tomi  kemon ami valo asi ami 
